@@ -10,7 +10,7 @@
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor-006488)
 
 ## Follow Me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor-090909)](https://t.me.com/ludmiilagrineva)
+[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor-090909)](https://t.me/ludmiilagrineva)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor-090909)](https://m.facebook.com/miiiiillllli)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor-090909)](https://m.facebook.com/luyda.grineva)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor-090909)](https://instagram.com/miillli)

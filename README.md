@@ -13,7 +13,7 @@
 ![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram&logoColor-090909)
 ![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor-090909)
 ![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor-090909)
-![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor-090909)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=Instagram&logoColor-090909)](https://instagram.com/miillli)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ludmiilagrineva&count_private=true&show_icons=true&theme=dark)
